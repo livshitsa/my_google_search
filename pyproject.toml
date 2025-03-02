@@ -15,4 +15,4 @@ build-backend = "hatchling.build"
 packages = ["search_server"]
 
 [project.scripts]
-my-google-search = "search_server:run_server"
+my-google-search = "my_google_search.search_server:run_server"
