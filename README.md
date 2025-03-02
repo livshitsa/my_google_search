@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # my_google_search
 =======
 **create virtual environment**
@@ -18,4 +18,4 @@
     ]
 }
 ```
->>>>>>> 0868bbf (init commit)
+
