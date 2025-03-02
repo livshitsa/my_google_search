@@ -1,6 +1,6 @@
 
 # my_google_search
-=======
+
 **create virtual environment**
 - uv venv --seed -p 3.11
 - activate virtual enviroment (on mac or linux: source .venv/bin/activate)
