@@ -38,6 +38,9 @@ def search(query: str, max_results: int = 5) -> str:
         print(e)
         return f"Error performing search: {str(e)}"
 
+def run_server():
+    mcp.run(transport="stdio")
+
 if __name__ == "__main__":
     # Run the server using stdio transport
-    mcp.run(transport="stdio")
+    run_server()
