@@ -13,6 +13,3 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["my_google_search"]
-
-[project.scripts]
-my-google-search = "my_google_search:main"
